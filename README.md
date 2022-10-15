@@ -1,2 +1,2 @@
 # java
-There i present my java programs with the help of Notepad.
+There i present some java programs with the help of Notepad.
