@@ -1,3 +1,4 @@
+     //*****Overriding*****//
 class Sub
 {
 void f1()
