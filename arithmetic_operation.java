@@ -1,5 +1,5 @@
 import java.util.*;
-class arithmetic_operation
+class example_switch
 {  
 	public void addition(int x,int y) 	
 	{ 
@@ -19,7 +19,7 @@ class arithmetic_operation
 	}
 	
 }
-class example_switch
+class 
 {
   	public static void main( String a[])
   	{
