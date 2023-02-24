@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class fibonacci
+class FabbonacciSeries
 {
      public static void main(String arg[])
      {
