@@ -10,11 +10,11 @@ class FabbonacciSeries
         System.out.println(y);
      
         for (int n = 2; n < 10; n++)
-        {
-          sum = x + y;
-          System.out.println(sum);
-          x = y;
-          y = sum;
-        }
+          {
+            sum = x + y;
+            System.out.println(sum);
+            x = y;
+            y = sum;
+          }
      }
 }
