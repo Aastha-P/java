@@ -17,7 +17,7 @@ class dog extends animal
 	
 }
 
-class super_key_constructor_call
+class super_key
 {
 	public static void main(String[] args) 
 	{
